@@ -1,2 +1,5 @@
 # jsSlackDev
-Slackの不要ファイル日付指定で削除する
+Slack上の不要ファイルをチャンネルと日付指定で削除するプログラム
+
++ Google Apps Script
++ Javascript
